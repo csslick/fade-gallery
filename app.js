@@ -28,7 +28,7 @@ $(function(){
     imgCount++;
     if(imgCount >= 2) imgCount = 0; 
     changeSlider(imgCount);
-  },3000);
+  }, 5000);
 
 }); // $
 
