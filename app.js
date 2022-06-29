@@ -23,8 +23,14 @@ $(function(){
       changeSlider(imgCount);
     }
   });
+  
+  let timer = setInterval(function(){
+    imgCount++;
+    if(imgCount >= 2) imgCount = 0; 
+    changeSlider(imgCount);
+  },3000);
 
-});
+}); // $
 
 let imgCount = 0; // 이미지 번호
 // 하단 인디케이터 버튼을 누르면 해당 이미지(번호) 출력 함수
