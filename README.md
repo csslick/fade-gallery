@@ -9,3 +9,5 @@ demo: https://csslick.github.io/fade-gallery/
 
 # 라이브러리
 - jQuery
+
+![image](https://user-images.githubusercontent.com/24298382/176373298-111b6eaa-ba28-4c00-bd16-464348dded82.png)
