@@ -1,2 +1,11 @@
 # fade-gallery
-Fade Effect Gallery
+Fade Effect Gallery  
+demo: https://csslick.github.io/fade-gallery/
+
+# 기능
+1. prev / next 페이지 넘기기
+2. 인디케이터 버튼 클릭시 이미지 변경
+3. 현재 이미지 인디케이터 스타일(미구현)
+
+# 라이브러리
+- jQuery
